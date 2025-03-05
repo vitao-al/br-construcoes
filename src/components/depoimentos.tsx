@@ -4,7 +4,7 @@ export default function Depoimentos(){
     return (
         <section id="depoimentos" className="py-20 bg-gray-50">
         <div className="container mx-auto px-6">
-          <h2 className="text-4xl font-bold text-center mb-4">O que Dizem Nossos Clientes</h2>
+          <h2 className="text-4xl font-bold text-center mb-4">O que dizem nossos clientes?</h2>
           <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">
             A satisfação dos nossos clientes é o nosso maior orgulho.
           </p>
