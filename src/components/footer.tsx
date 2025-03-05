@@ -5,7 +5,7 @@ export default function Footer(){
           <div className="grid md:grid-cols-4 gap-12 mb-8">
             <div>
               <div className="flex items-center space-x-2 mb-4">
-                <img className="w-12 h-12" src="../assets/brlogo.png"/>
+                <img className="w-12 h-12" src="/brlogo.png"/>
                 <span className="text-2xl font-bold">BR Construções</span>
               </div>
               <p className="text-gray-400">
