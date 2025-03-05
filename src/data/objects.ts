@@ -5,7 +5,7 @@ export const products = {
       { image: "/ferramentas.avif", name: "Ferramentas Profissionais", price: "A partir de R$ 129,90" },
       { image: "/brita.avif", name: "Brita", price: "A partir de R$ 299,90" },
       { image: "/tinta.jpg", name: "Tintas Premium", price: "A partir de R$ 159,90" },
-      { image: "https://facilmateriaisdeconstrucao.com.br/wp-content/uploads/2024/06/Tipos-de-areia-para-construcao_-qual-escolher-para-cada-projeto.jpg", name: "Areia", price: "A partir de R$ 49,90/m²"  },
+      { image: "/areia.jpg", name: "Areia", price: "A partir de R$ 49,90/m²"  },
       { image: "/portadealuminio.png", name: "Portas de alumínio", price: "A partir de R$ 299,90" },
     ],
     materiais: [
