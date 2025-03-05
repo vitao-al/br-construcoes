@@ -13,7 +13,7 @@ export default function Depoimentos(){
             <div className="bg-white p-8 rounded-xl shadow-lg">
               <div className="flex items-center mb-4">
                 <img
-                  src='/assets/dutra.png'
+                  src='src/assets/dutra.png'
                   alt="Cliente"
                   className="w-12 h-12 rounded-full object-cover mr-4"
                 />
@@ -36,7 +36,7 @@ export default function Depoimentos(){
             <div className="bg-white p-8 rounded-xl shadow-lg">
               <div className="flex items-center mb-4">
                 <img
-                  src="../assets/josi.png"
+                  src="src/assets/josi.png"
                   alt="Cliente"
                   className="w-12 h-12 rounded-full object-cover mr-4"
                 />
@@ -59,7 +59,7 @@ export default function Depoimentos(){
             <div className="bg-white p-8 rounded-xl shadow-lg">
               <div className="flex items-center mb-4">
                 <img
-                  src="../assets/marcos.png"
+                  src="src/assets/marcos.png"
                   alt="Cliente"
                   className="w-12 h-12 rounded-full object-cover mr-4"
                 />
