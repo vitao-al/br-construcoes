@@ -4,7 +4,7 @@ import {products} from '../data/objects';
 export default function Products(){
 
     const [activeTab, setActiveTab] = useState('todos');
-    
+
     return (
         <section id="produtos" className="py-20 bg-gray-50">
                 <div className="container mx-auto px-6">
@@ -69,7 +69,7 @@ export default function Products(){
                         <div className="p-6">
                           <h3 className="text-xl font-semibold mb-2">{product.name}</h3>
                           <p className="text-yellow-600 font-bold">{product.price}</p>
-                          <button className="mt-4 w-full bg-orange-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-800 transition-colors">
+                          <button className="mt-4 w-full bg-orange-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-700 transition-colors">
                             Solicitar Orçamento
                           </button>
                         </div>
