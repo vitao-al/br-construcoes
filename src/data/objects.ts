@@ -5,7 +5,7 @@ export const products = {
       { image: "src/assets/ferramentas.avif", name: "Ferramentas Profissionais", price: "A partir de R$ 129,90" },
       { image: "src/assets/brita.avif", name: "Brita", price: "A partir de R$ 299,90" },
       { image: "src/assets/tinta.jpg", name: "Tintas Premium", price: "A partir de R$ 159,90" },
-      { image: "src/assets/areia.jpg", name: "Areia", price: "A partir de R$ 49,90/m²"  },
+      { image: "https://drive.google.com/file/d/1fi9qkUiQ4wug1xoNIP6xo287129Lbnsr/preview", name: "Areia", price: "A partir de R$ 49,90/m²"  },
       { image: "src/assets/portadealuminio.png", name: "Portas de alumínio", price: "A partir de R$ 299,90" },
     ],
     materiais: [
