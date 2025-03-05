@@ -7,7 +7,7 @@ export default function Header(){
         <header className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="/brlogo.png"
+            src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&q=80"
             alt="Construção"
             className="w-full h-full object-cover"
           />
@@ -17,7 +17,7 @@ export default function Header(){
         <nav className="relative z-10 container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
-              <img className='w-12 h-12' src="https://drive.google.com/file/d/1rwFoV5gsNKcUdhyGbBTV3YdqcLbFMDBu/view?usp=sharing"/>
+              <img className='w-12 h-12' src="/brlogo.png"/>
               <span className="text-2xl font-bold text-white">BR Construções</span>
             </div>
             <div className="hidden md:flex space-x-8 text-white">
