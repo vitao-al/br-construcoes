@@ -7,7 +7,7 @@ export default function Header(){
         <header className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&q=80"
+            src="/brlogo.png"
             alt="Construção"
             className="w-full h-full object-cover"
           />
