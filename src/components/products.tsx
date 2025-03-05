@@ -14,6 +14,7 @@ export default function Products(){
                   </p>
         
                   <div className="flex justify-center space-x-4 mb-12">
+                    <div className="w-full overflow-x-auto whitespace-nowrap p-4">
                     <button
                       onClick={() => setActiveTab('todos')}
                       className={`px-6 py-2 rounded-full ${
@@ -54,6 +55,7 @@ export default function Products(){
                     >
                       Ferramentas
                     </button>
+                    </div>
                   </div>
         
                   <div className="grid md:grid-cols-3 gap-8">

@@ -75,7 +75,7 @@ export default function Depoimentos(){
                 </div>
               </div>
               <p className="text-gray-600">
-                "Preços competitivos e entrega sempre no prazo. Minha construtora só compra com a ConstruMais."
+                "Preços competitivos e entrega sempre no prazo. Minha construtora só compra com a BR Constuções."
               </p>
             </div>
           </div>

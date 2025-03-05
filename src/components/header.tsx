@@ -35,7 +35,7 @@ export default function Header(){
 
         <div className="relative z-10 container mx-auto px-6 h-[calc(100%-88px)] flex items-center">
           <div className="max-w-3xl">
-            <h1 className="text-6xl font-bold text-white mb-6 leading-tight">
+            <h1 className="text-4xl font-bold text-white mb-6 leading-tight">
               Transforme seus sonhos em realidade com a BR Construções
             </h1>
             <p className="text-xl text-gray-200 mb-8">
